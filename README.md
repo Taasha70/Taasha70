@@ -1,74 +1,57 @@
+
 <p align="center">
-  <img src="./assets/glassmorphism-hero.svg"
-       alt="Tanisha's GitHub banner"
-       width="100%" />
+  <img src="./assets/glassmorphism-hero.svg" alt="Tanisha's GitHub banner" width="100%" />
 </p>
 
-### 🌱 A little about me
+<h3 align="center">hey, i'm tanisha 👋</h3>
 
-I'm interested in both the technical and creative sides of building products. I enjoy writing code, figuring out how different pieces of an application fit together, and organizing ideas into something meaningful.
+<p align="center">
+  BCA student • Aspiring developer • Forever curious 🌱
+</p>
 
-I'm currently exploring full-stack development, working with different technologies, and trying to become a better developer one project at a time. I also enjoy project coordination, teamwork, and being part of communities where people learn and build together.
+I'm a third-year BCA student from Delhi, exploring the world of tech one project at a time. I enjoy building things, experimenting with new technologies, and learning how ideas turn into real products. This is where I share what I'm working on and what I'm learning along the way.
 
-Outside of coding, I enjoy reading, organizing things, researching random topics, and going down interesting learning rabbit holes. 📚
+---
 
-### 💻 What I'm currently exploring
+### 🛠️ things i work with
 
-- 🌐 Building web applications with React and Node.js
-- 🎨 Creating responsive and user-friendly frontend experiences
-- ⚙️ Understanding backend development, APIs, and databases
-- 🧩 Strengthening my Java, C, and problem-solving skills
-- 🤝 Exploring open source and learning through collaboration
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### 🛠️ My current tech toolbox
+### 🚀 things i've been building
 
-**Languages:** C, Java, Python, JavaScript
+- **ClientFlow** — A client, brand, and deadline management system.
+- **Locus** — A project I'm currently exploring and building.
+- **More experiments** — [Browse my repositories →](https://github.com/Taasha70?tab=repositories)
 
-**Frontend:** HTML, CSS, React, Bootstrap
+### 🌱 currently
 
-**Backend:** Node.js, Express.js
+Learning full-stack development, improving my problem-solving skills, exploring open source, and building projects that help me grow as a developer.
 
-**Databases:** SQLite, SQL
+### ☕ beyond the code
 
-**Tools:** Git, GitHub, VS Code, Notion, Trello
+I enjoy reading, organizing ideas, exploring random topics, and collaborating with people who love learning and building things.
 
-I'm still exploring, experimenting, and adding new things to this toolbox as I go!
+### 🤝 let's connect
 
-### 🚀 What I've been building lately
+<p>
+  <a href="https://linkedin.com/in/tanisha-00621b247">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/Taasha70">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
 
-**✨ ClientFlow**
-
-One of my recent projects is ClientFlow, a Client Asset & Deadline Management System. The idea is to make it easier to organize client information, manage brand-related details, and keep track of deadlines in one place.
-
-I'm working on its frontend and backend, learning more about how different parts of a full-stack application connect, and improving the project as development continues.
-
-**📍 Locus**
-
-Locus is another project I'm working on. I'm excited to keep exploring its possibilities and use it as an opportunity to learn, experiment, and build something useful.
-
-*(More details and links coming soon!)*
-
-### 📂 More than just code
-
-I use GitHub to keep track of the things I build, experiment with new ideas, practise what I'm learning, and document my progress.
-
-Not everything here is perfect or finished, and that's okay. Some projects are about building something useful; others are about understanding a concept that confused me yesterday.
-
-Either way, every repository is part of the journey. 🌱
-
-### 🌻 A few things about me
-
-- 📚 I enjoy learning things beyond my college syllabus.
-- 📝 I like organizing ideas and making complicated things easier to understand.
-- 👥 I enjoy collaborating, coordinating, and sharing ideas with others.
-- 💡 I'm curious about how ideas turn into real products.
-- ✨ I believe the best way to learn is to build, make mistakes, and try again.
-
-### 🤝 Let's connect!
-
-I'm always happy to connect with people who enjoy building things, sharing knowledge, and learning together.
-
-- 💼 [LinkedIn](https://linkedin.com/in/tanisha-00621b247)
-- 🐙 [GitHub](https://github.com/Taasha70)
-
-Thanks for stopping by! Have a look around, explore my projects, and happy coding. 💜
+<p align="center">
+  <i>still learning, still building, always curious ✨</i>
+</p>
