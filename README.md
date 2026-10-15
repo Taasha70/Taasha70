@@ -34,6 +34,20 @@ Outside of coding, I enjoy reading, organizing things, researching random topics
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+
+## 🏅 Digital Badges & Learning
+
+Learning by building, exploring new technologies, and turning curiosity into skills. ☁️💻
+
+<p align="center">
+  <a href="https://www.credly.com/users/tanisha.e09dbab1">
+    <img src="https://img.shields.io/badge/Credly-Explore%20My%20Badges-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Explore my Credly badges">
+  </a>
+</p>
+
+<p align="center">
+  <i>Every badge represents a new skill learned and a step forward in my tech journey.</i>
+</p>
 ### 🚀 things i've been building
 
 - **ClientFlow** — A client, brand, and deadline management system.
