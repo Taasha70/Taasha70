@@ -1,13 +1,12 @@
 
 <p align="center">
-  <img src="./assets/glassmorphism-hero.svg" alt="Tanisha's GitHub banner" width="100%" />
+  <img
+    src="./assets/tanisha-banner.png"
+    alt="Tanisha's art and code banner"
+    width="100%"
+  />
 </p>
 
-<h3 align="center">hey, I'm Tanisha 👋</h3>
-
-<p align="center">
-  BCA student • Aspiring developer • Forever curious 🌱
-</p>
 
 I love exploring how technology works, building things from scratch, and turning ideas into something people can actually use. My journey so far has been a mix of coding, experimenting with web development, collaborating on projects, and learning something new every time I build something.
 
