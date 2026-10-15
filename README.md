@@ -48,6 +48,8 @@ Learning by building, exploring new technologies, and turning curiosity into ski
 <p align="center">
   <i>Every badge represents a new skill learned and a step forward in my tech journey.</i>
 </p>
+
+
 ### 🚀 things i've been building
 
 - **ClientFlow** — A client, brand, and deadline management system.
