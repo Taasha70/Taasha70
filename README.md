@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="./tanisha-banner.png"
+    src="assets/Tanisha-banner.png"
     alt="Tanisha's art and code banner"
     width="100%"
   />
