@@ -1,10 +1,8 @@
-# Hey, I'm Tanisha! 👋
-
-Welcome to my little corner of GitHub! ☕💻
-
-I'm a third-year BCA student from Delhi, figuring things out one project, one bug, and one late-night Google search at a time.
-
-I love exploring how technology works, building things from scratch, and turning ideas into something people can actually use. My journey so far has been a mix of coding, experimenting with web development, collaborating on projects, and learning something new every time I build something.
+<p align="center">
+  <img src="./assets/glassmorphism-hero.svg"
+       alt="Tanisha's GitHub banner"
+       width="100%" />
+</p>
 
 ### 🌱 A little about me
 
