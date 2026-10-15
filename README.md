@@ -3,13 +3,21 @@
   <img src="./assets/glassmorphism-hero.svg" alt="Tanisha's GitHub banner" width="100%" />
 </p>
 
-<h3 align="center">hey, i'm tanisha 👋</h3>
+<h3 align="center">hey, I'm Tanisha 👋</h3>
 
 <p align="center">
   BCA student • Aspiring developer • Forever curious 🌱
 </p>
 
-I'm a third-year BCA student from Delhi, exploring the world of tech one project at a time. I enjoy building things, experimenting with new technologies, and learning how ideas turn into real products. This is where I share what I'm working on and what I'm learning along the way.
+I love exploring how technology works, building things from scratch, and turning ideas into something people can actually use. My journey so far has been a mix of coding, experimenting with web development, collaborating on projects, and learning something new every time I build something.
+
+🌱 A little about me
+
+I'm interested in both the technical and creative sides of building products. I enjoy writing code, figuring out how different pieces of an application fit together, and organizing ideas into something meaningful.
+
+I'm currently exploring full-stack development, working with different technologies, and trying to become a better developer one project at a time. I also enjoy project coordination, teamwork, and being part of communities where people learn and build together.
+
+Outside of coding, I enjoy reading, organizing things, researching random topics, and going down interesting learning rabbit holes. 📚
 
 ---
 
